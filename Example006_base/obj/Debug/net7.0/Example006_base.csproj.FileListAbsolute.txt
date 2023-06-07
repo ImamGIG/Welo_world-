@@ -1,0 +1,15 @@
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example006_base\bin\Debug\net7.0\Example006_base.exe
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example006_base\bin\Debug\net7.0\Example006_base.deps.json
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example006_base\bin\Debug\net7.0\Example006_base.runtimeconfig.json
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example006_base\bin\Debug\net7.0\Example006_base.dll
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example006_base\bin\Debug\net7.0\Example006_base.pdb
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example006_base\obj\Debug\net7.0\Example006_base.csproj.AssemblyReference.cache
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example006_base\obj\Debug\net7.0\Example006_base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example006_base\obj\Debug\net7.0\Example006_base.AssemblyInfoInputs.cache
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example006_base\obj\Debug\net7.0\Example006_base.AssemblyInfo.cs
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example006_base\obj\Debug\net7.0\Example006_base.csproj.CoreCompileInputs.cache
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example006_base\obj\Debug\net7.0\Example006_base.dll
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example006_base\obj\Debug\net7.0\refint\Example006_base.dll
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example006_base\obj\Debug\net7.0\Example006_base.pdb
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example006_base\obj\Debug\net7.0\Example006_base.genruntimeconfig.cache
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example006_base\obj\Debug\net7.0\ref\Example006_base.dll
