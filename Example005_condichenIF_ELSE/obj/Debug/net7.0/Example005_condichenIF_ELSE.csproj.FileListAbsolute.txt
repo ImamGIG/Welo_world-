@@ -1,0 +1,15 @@
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example005_condichenIF_ELSE\bin\Debug\net7.0\Example005_condichenIF_ELSE.exe
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example005_condichenIF_ELSE\bin\Debug\net7.0\Example005_condichenIF_ELSE.deps.json
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example005_condichenIF_ELSE\bin\Debug\net7.0\Example005_condichenIF_ELSE.runtimeconfig.json
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example005_condichenIF_ELSE\bin\Debug\net7.0\Example005_condichenIF_ELSE.dll
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example005_condichenIF_ELSE\bin\Debug\net7.0\Example005_condichenIF_ELSE.pdb
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example005_condichenIF_ELSE\obj\Debug\net7.0\Example005_condichenIF_ELSE.csproj.AssemblyReference.cache
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example005_condichenIF_ELSE\obj\Debug\net7.0\Example005_condichenIF_ELSE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example005_condichenIF_ELSE\obj\Debug\net7.0\Example005_condichenIF_ELSE.AssemblyInfoInputs.cache
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example005_condichenIF_ELSE\obj\Debug\net7.0\Example005_condichenIF_ELSE.AssemblyInfo.cs
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example005_condichenIF_ELSE\obj\Debug\net7.0\Example005_condichenIF_ELSE.csproj.CoreCompileInputs.cache
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example005_condichenIF_ELSE\obj\Debug\net7.0\Example005_condichenIF_ELSE.dll
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example005_condichenIF_ELSE\obj\Debug\net7.0\refint\Example005_condichenIF_ELSE.dll
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example005_condichenIF_ELSE\obj\Debug\net7.0\Example005_condichenIF_ELSE.pdb
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example005_condichenIF_ELSE\obj\Debug\net7.0\Example005_condichenIF_ELSE.genruntimeconfig.cache
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example005_condichenIF_ELSE\obj\Debug\net7.0\ref\Example005_condichenIF_ELSE.dll
