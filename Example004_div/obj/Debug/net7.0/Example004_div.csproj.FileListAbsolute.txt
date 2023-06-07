@@ -1,0 +1,15 @@
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example004_div\bin\Debug\net7.0\Example004_div.exe
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example004_div\bin\Debug\net7.0\Example004_div.deps.json
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example004_div\bin\Debug\net7.0\Example004_div.runtimeconfig.json
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example004_div\bin\Debug\net7.0\Example004_div.dll
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example004_div\bin\Debug\net7.0\Example004_div.pdb
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example004_div\obj\Debug\net7.0\Example004_div.csproj.AssemblyReference.cache
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example004_div\obj\Debug\net7.0\Example004_div.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example004_div\obj\Debug\net7.0\Example004_div.AssemblyInfoInputs.cache
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example004_div\obj\Debug\net7.0\Example004_div.AssemblyInfo.cs
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example004_div\obj\Debug\net7.0\Example004_div.csproj.CoreCompileInputs.cache
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example004_div\obj\Debug\net7.0\Example004_div.dll
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example004_div\obj\Debug\net7.0\refint\Example004_div.dll
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example004_div\obj\Debug\net7.0\Example004_div.pdb
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example004_div\obj\Debug\net7.0\Example004_div.genruntimeconfig.cache
+D:\Обучение Программа разрабочик\1.4 Знакомство с языками программирования (Лекции)\1\Example004_div\obj\Debug\net7.0\ref\Example004_div.dll
